@@ -9,13 +9,13 @@
 
 
 # 멘토 프로필
-1. 멘토의 기술스택
+## 멘토의 기술스택
 HTML5, CSS, Javascript(Vue.js)
 PHP, NodeJS(Typescript), Docker
 Mysql, Postgresql, Mongodb, Redis, Firebase Firestore
 
-2. 참여프로젝트
-* [두부플러스: 반응형웹빌더+쇼핑몰](https://kr.dubuplus.com/#gsc.tab=0)
+## 참여프로젝트
+### [두부플러스: 반응형웹빌더+쇼핑몰](https://kr.dubuplus.com/#gsc.tab=0)
 **주요사용기술: PHP5, Javascript(jQuery, BackboneJs, AngularJs)**
 - 쇼핑몰 결제시스템 개발
 - 반응형 빌더 앱 - 지도, 소스코드, 서브컨텐츠 등 관리자 모듈 개발 및 배포
@@ -24,7 +24,7 @@ Mysql, Postgresql, Mongodb, Redis, Firebase Firestore
 **주요사용기술: PHP5, HTML5, CSS, Javascript(jQuery)**
 - 3개국어를 지원하는 외국인 여행보험을 소개 및 판매하는 웹표준 퍼블리싱 및 애내메이션 기능추가
 
-* [2Dub: 한국어/영어 영상을 더빙(녹음) 하고 공유하는 어플리케이션](https://2dub.me/)
+### [2Dub: 한국어/영어 영상을 더빙(녹음) 하고 공유하는 어플리케이션](https://2dub.me/)
 **주요사용기술: Swift3(IOS APP), PHP6(Laravel), Nodejs(Socket.io)**
 - 영상 더빙을 주 목적으로 하는 IOS앱 개발 및 배포, 백엔드 API개발, AWS 인프라 구축 및 개발
 - IOS Native with Swift 3.0 개발 및 배포 경험
@@ -32,7 +32,7 @@ Mysql, Postgresql, Mongodb, Redis, Firebase Firestore
 - AWS infra 구성 및 배포(EC2, ELB, EKS, ECS, S3, Route53, Docker)
 - AWS의 인프라 구축을 통해 서비스의 고가용성을 유지하고 CI/CD기술을 접목함으로써 빠른개발과 빠른배포 그리고 효과적인 배포(무중단배포)가 가능한 환경을 구축
 
-* [투썬월드](http://www.twosun.com/)
+### [투썬월드](http://www.twosun.com/)
 **주요사용기술: VueJs, NuxtJs(Graphql Client), Nodejs(Typescript, Graphql), Flutter(Dart)**
 - 다양한 서비스의 웹앱 프론트앤드 개발
 - NuxtJS를 도입함으로써 SSR을 지원하고 그로인해 사이트의 SEO의 향상과 사이트 퍼포먼스 개선
