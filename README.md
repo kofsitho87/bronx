@@ -58,3 +58,4 @@ Mysql, Postgresql, Mongodb, Redis, Firebase Firestore
 
 
 # 프론트엔드 개발자 커리큘럼
+준비중...
