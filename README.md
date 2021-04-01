@@ -1,6 +1,3 @@
-# 멘토 프로필
-
-
 # 현직 판교개발자가 알려주는 개발자 입문 멘토링!
 안녕하세요. 6년차 풀스택 개발자로 일하고 있는 ---입니다. 저는 비전공자로 우연한 기회에 웹퍼블리셔라는 분야를 시작으로 **프론트엔드 개발, 백엔드 개발, 그리고 앱개발까지 해오고 있는 풀스택 개발자**입니다.
 저는 비전공자 였음에도 불구하고 빠른시간안에 많은 개발경험과 역량을 가지된 경험과 노하우를 공유드리고 비전공자 혹은 초보자로써 가지고 있는 어려움과 막막한 부분을 누구보다 더 잘이해하고 있고 들어줄수 있을것 같다는 생각에 미래의 개발자가 되실 여러분을 위해 멘토를 신청했습니다.
@@ -9,6 +6,41 @@
 또한 **프론트엔드, 백엔드, 데브옵스의 차이와 특징**은 무엇인지 현업개발자의 입장에서 알려드립니다.
 
 가령 프론트엔드개발자가 되기 위해서 어떤 자질과 효과적인 공부방법이 있는지 또한 주로 어떤 툴을 사용하는지도 상세하게 알려드리겠습니다.
+
+
+# 멘토 프로필
+1. 멘토의 기술스택
+HTML5, CSS, Javascript(Vue.js)
+PHP, NodeJS(Typescript), Docker
+Mysql, Postgresql, Mongodb, Redis, Firebase Firestore
+
+2. 참여프로젝트
+* [두부플러스: 반응형웹빌더+쇼핑몰](https://kr.dubuplus.com/#gsc.tab=0)
+**주요사용기술: PHP5, Javascript(jQuery, BackboneJs, AngularJs)**
+- 쇼핑몰 결제시스템 개발
+- 반응형 빌더 앱 - 지도, 소스코드, 서브컨텐츠 등 관리자 모듈 개발 및 배포
+
+* 클라이메디: 외국인전용 한국여행보험소개 및 알선 웹사이트
+**주요사용기술: PHP5, HTML5, CSS, Javascript(jQuery)**
+- 3개국어를 지원하는 외국인 여행보험을 소개 및 판매하는 웹표준 퍼블리싱 및 애내메이션 기능추가
+
+* [2Dub: 한국어/영어 영상을 더빙(녹음) 하고 공유하는 어플리케이션](https://2dub.me/)
+**주요사용기술: Swift3(IOS APP), PHP6(Laravel), Nodejs(Socket.io)**
+- 영상 더빙을 주 목적으로 하는 IOS앱 개발 및 배포, 백엔드 API개발, AWS 인프라 구축 및 개발
+- IOS Native with Swift 3.0 개발 및 배포 경험
+- Google Map, Social Login, Firbase DB, Crashlytics, Video Player, Audio Player, Media Converting, FCM, Local Database(Realm)
+- AWS infra 구성 및 배포(EC2, ELB, EKS, ECS, S3, Route53, Docker)
+- AWS의 인프라 구축을 통해 서비스의 고가용성을 유지하고 CI/CD기술을 접목함으로써 빠른개발과 빠른배포 그리고 효과적인 배포(무중단배포)가 가능한 환경을 구축
+
+* [투썬월드](http://www.twosun.com/)
+**주요사용기술: VueJs, NuxtJs(Graphql Client), Nodejs(Typescript, Graphql), Flutter(Dart)**
+- 다양한 서비스의 웹앱 프론트앤드 개발
+- NuxtJS를 도입함으로써 SSR을 지원하고 그로인해 사이트의 SEO의 향상과 사이트 퍼포먼스 개선
+- 최신트렌드인 Graphql 기술을 도입하여 더욱 효과적으로 프론트엔드와 협업할 수 있는 기틀을 마련하고 전체적으로 개발속도 향상에 기여함
+- Python과 Nodejs를 사용하여 웹사이트 크롤링
+- Flutter 크로스플랫폼기술을 도입함으로써 원소스를 통해 IOS, Andoird플랫폼 배포가 가능하게 하여 개발퍼포먼스 및 유지보수 비용절약
+- 채팅서버 및 클라이언트 채팅기능을 개발
+- Mongodb, Firebase Realtime DB등의 NosqlDB 개발경험
 
 # 저는 주로 이러한 부분에 중점을 맞추어 컨설팅해 드리겠습니다.
 1. 프론트엔드개발 VS 백엔드개발
@@ -23,3 +55,6 @@
 2. 개발자가 되기로 마음은 먹었는데 어떻게 준비하고 공부하면 좋을지 궁금하신 분들
 3. 내가 공부한 영역을 바탕으로 어떤 회사를 선택하고 어떻게 준비하면 좋을지 궁금하신 분들
 4. 회사 취업 그 이후로 내가 하고 있는 직업의 미래전망에 대해 궁금하신 분들
+
+
+# 프론트엔드 개발자 커리큘럼
